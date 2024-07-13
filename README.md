@@ -32,6 +32,6 @@ Later this one by one selection process automated using RFE (Recursive Feature E
 The above table shown the best infuencing attributes have been used to create the model to predic the housing price.
 
 ## Conclusion:
-mean_squared_error:  0.01170800290494533 # Meaning our model is not able to predict correctly 0.01% saying in other way model was 99% accurate.
+mean_squared_error:  0.011708002 # Meaning our model is not able to predict correctly 0.01% saying in other way model was 99% accurate.
 
-r_squared:   0.6021721774706439          # Meaning in real life data if R^2 value is 60 and above, it is a good model. So, this is a good model
+r_squared:   0.6021721774706439  # Meaning in real life data if R^2 value is 60 and above, it is a good model. So, this is a good model
